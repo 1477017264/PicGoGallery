@@ -1,0 +1,22 @@
+{
+  "name": "dadio-assets",
+  "version": "1.0.1",
+  "description": "npm图床",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1477017264/PicGoGallery.git"
+  },
+  "keywords": [
+    "图床"
+  ],
+  "author": "dadio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1477017264/PicGoGallery/issues"
+  },
+  "homepage": "https://github.com/1477017264/PicGoGallery#readme"
+}
